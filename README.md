@@ -16,7 +16,7 @@ transfer data between two independently clocked domains.
 
 ## Files
 - `Sources/` — Asynch FIFO RTL (write/read pointer handler, fifo memory, 2 flip-flop synchronizer, Asynch FIFO top module)
-- `Testbench/` — SystemVerilog testbench
+- `Testbench/` — SystemVerilog testbench + System Verilog Assertions + Functional Coverage
 - `docs/` — waveform screenshots / notes (if available)
 
 
